@@ -2,7 +2,7 @@
 
 JNI bindings for [libfvad](https://github.com/dpirch/libfvad/tree/master)
 
-Available in [](https://mvnrepository.com/artifact/io.vacco.fvad)
+Available in [Maven Central](https://mvnrepository.com/artifact/io.vacco.fvad)
 
 Example output from [test cases](./src/test/java/io/vacco/fvad/FvContextTest.java)
 
